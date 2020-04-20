@@ -1,0 +1,8 @@
+.todoContainer  {
+    display: flex;
+}
+.todoContainer span {
+    width: 400px;
+    margin: 20px; 
+    border: 1px solid red;
+}
